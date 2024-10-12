@@ -1,0 +1,42 @@
+.gnb-divider {
+    margin-top: 0em;
+    width: 100%;
+    height: 1rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.gnb-body {
+   
+}
+
+.gnb-banner {
+    margin-top: 0em !important;
+}
+
+.gnb-link {
+    color: #FF00FF;
+}
+
+.gnb-nav {
+    color: #FF00FF;
+}
+
+.gnb-last-row {
+    margin-bottom: 0rem !important;
+    padding-bottom: 2px !important;
+}
+
+.gnb-row {
+    margin-top: 0rem !important;
+    margin-bottom: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+
+.gnb-footer-sub {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    opacity: 0.5;
+}
