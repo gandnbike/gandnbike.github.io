@@ -1,4 +1,4 @@
-.PHONY: jpg optimise_png
+.PHONY: optimise_jpg optimise_png
 
 install:
 	brew install jpegoptim
